@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <!--
 **donofriov/donofriov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
