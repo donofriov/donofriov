@@ -1,4 +1,8 @@
-[![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]() Senior DevOps Consultant
+[![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]() 
+
+Senior DevOps Consultant
+
+[![donofriov's github streak](https://github-readme-streak-stats.herokuapp.com/?user=donofriov&theme=blue-green)](https://github.com/donofriov)
 
 <!--
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
